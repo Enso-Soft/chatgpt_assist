@@ -49,7 +49,3 @@ https://openai.com ChatGPT API를 이용한 어플리케이션 입니다.
  
 - **BuildSrc**
   - Kotlin-dsl를 사용하고 있으며 여러 모듈의 gradle를 BuildSrc를 통해 일관성 있게 관리하고 있습니다.
-
----
-### 실력 향상을 위한 프로젝트 입니다.
-누구든지 참여 할 수 있습니다. 이슈로 코멘트 남겨주시면 됩니다
