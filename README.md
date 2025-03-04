@@ -35,7 +35,7 @@ https://openai.com ChatGPT API를 이용한 어플리케이션 입니다.
 - **Android Clean Architecture**
   - Presentation -> Domain <- Data 레이어 형태로 제작 되었으며, 각 레이어는 Module로 관리 됩니다.
  
-- **design pattern MVP/VM WhatEver**
+- **design pattern MVP/VM**
   - View와 ViewModel은 1:1 관계를 Default로 유지합니다.
   - 필요에 따라서 View와 ViewModel은 N:1 관계가 유지 될 수 있습니다. (ex:: Fragment) 
 
