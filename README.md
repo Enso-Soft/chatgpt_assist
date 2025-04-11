@@ -1,7 +1,7 @@
 ### ChatGPT Assist 어플리케이션
 https://openai.com ChatGPT API를 이용한 어플리케이션 입니다. 
 
-자신의 API Key을 설정하여, Local에 저장한 후 API Request 할 때 사용하여 ChatGPT와 대화를 나눌 수 있습니다. 
+자신의 AI API를 설정하여, Local에 저장한 후 API Request 할 때 사용하여 ChatGPT와 대화를 나눌 수 있습니다. 
 
 **ChatGPT API 요금은 본인이 직접 결제 해야합니다**
 
